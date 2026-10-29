@@ -1,0 +1,8 @@
+# Fotos de Kaggle: no se versionan (peso y licencia del dataset)
+data/imagenes/*
+!data/imagenes/LEEME.md
+.env
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

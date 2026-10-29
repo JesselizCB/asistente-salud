@@ -1,0 +1,11 @@
+numpy==2.4.6
+pandas==3.0.6
+scipy==1.17.1
+statsmodels==0.15.0
+opencv-python==5.0.0.93
+onnxruntime==1.31.0
+rapidocr-onnxruntime==1.4.4
+jupyter_client==8.10.0
+ipykernel==7.4.0
+nbclient
+nbformat
